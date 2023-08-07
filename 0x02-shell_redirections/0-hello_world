@@ -1,2 +1,2 @@
 #!/bin/bash
-ecgo -E "Hello, World"
+echo -e "Hello, World"
