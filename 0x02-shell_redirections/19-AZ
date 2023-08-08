@@ -1,0 +1,2 @@
+#!/bin/bash
+string="Replace all characters A and c from input to Z and e respectively." | final=${string//[Ac]/Ze} | echo $final
